@@ -46,10 +46,8 @@ export const defaultContentPageLayout: PageLayout = {
       sortFn: (a, b) => {
         return a.displayName.localeCompare(b.displayName)
       },
-      filterFn: (node) => {
-        // set containing names of everything you want to filter out
-        const omit = new Set(["wip", "draft", "private"])
-        return node.data ? !omit.has(node.data.title.toLowerCase()) : false
+      filterFn: () => {
+        return false
       },
       // what order to apply functions in
       order: ["filter", "map", "sort"],
