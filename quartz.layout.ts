@@ -39,18 +39,24 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       title: "Explorer", // title of the explorer component
-      folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
+      folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
       folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
       useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
       // omitted but shown later
       sortFn: (a, b) => {
-        return a.displayName.localeCompare(b.displayName)
+        if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+          return a.displayName.localeCompare(b.displayName, undefined, {
+            numeric: true,
+            sensitivity: "base",
+          })
+        }
+     
+        if (!a.isFolder && b.isFolder) {
+          return 1
+        } else {
+          return -1
+        }
       },
-      filterFn: () => {
-        return false
-      },
-      // what order to apply functions in
-      order: ["filter", "map", "sort"],
     }),
   ],
   right: [
