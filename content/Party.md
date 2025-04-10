@@ -4,8 +4,8 @@ Our party currently consists of the following great adventurers:
 
 * [[Azimuth]]
 * [[Chadwick]]
-* [[Party/Cloud Stormbringer|Cloud Stormbringer]]
-* [[Party/Gertie|Gertie]]
+* [[Cloud Stormbringer|Cloud Stormbringer]]
+* [[Gertie|Gertie]]
 * [[Sir Arthur Roland]]
 * [[Yutla]]
 
