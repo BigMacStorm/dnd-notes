@@ -66,12 +66,12 @@ export const defaultContentPageLayout: PageLayout = {
         scale: 0.9,
         repelForce: 12,
         centerForce: 0.3,
-        linkDistance: 20,
+        linkDistance: 10,
         fontSize: 0.6,
         opacityScale: 1,
         removeTags: [], // what tags to remove from the graph
         showTags: true, // whether to show tags in the graph
-        enableRadial: true, // whether to constrain the graph, similar to Obsidian
+        enableRadial: false, // whether to constrain the graph, similar to Obsidian
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
