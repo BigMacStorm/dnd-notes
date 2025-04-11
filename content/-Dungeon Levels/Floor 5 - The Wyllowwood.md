@@ -17,3 +17,12 @@
 
 ---
 # Gates
+##### Dead Tree Gate
+Activation | Touch the archway with a dead stick.
+
+Destination | [[Floor 2 - The Arcane Chambers]]
+
+##### Old Man and His Staff Gate
+Activation | Tap the arch with a staff three times.
+
+Destination | [[Floor 3 - The Sargauth Domain]]]

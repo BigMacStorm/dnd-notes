@@ -20,4 +20,4 @@
 
 ##### Magic Wand Gate
 Activation | Press a magic wand to the frame of the mirror
-Destination | [[Floor 1 - The Dungeon#Magic Wand Gate]]
+Destination | [[Floor 1 - The Dungeon]]

@@ -17,7 +17,3 @@
 
 ---
 # Gates
-
-##### Magic Wand Gate
-Activation | Press a magic wand to the frame of the mirror
-Destination | [[Floor 10 - The Labyrinth of Murial]]

@@ -20,4 +20,15 @@
 
 ##### Gold Coin Gate
 Activation | Insert a gold coin into the coin slot on the frame.
+
 Destination | [[Floor 4 - The Twisted Caverns]]
+
+##### Dead Tree Gate
+Activation | Touch the archway with a dead stick.
+
+Destination | [[Floor 5 - The Wyllowwood]]
+
+##### Rust Monster Gate
+Activation | Touch a piece of ferrous or rusty metal to the archway.
+
+Destination | [[Floor 6 - The Lost Level]]
