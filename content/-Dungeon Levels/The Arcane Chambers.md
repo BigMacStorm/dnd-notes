@@ -1,4 +1,4 @@
-![[Level 1 Banner.png]]
+![[The Arcane Chambers.png]]
 
 **Factions Present** | [[The Undertakers]], [[The Xanthar Guild]]
 

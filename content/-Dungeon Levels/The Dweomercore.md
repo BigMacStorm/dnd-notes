@@ -1,4 +1,4 @@
-![[Level 1 Banner.png]]
+![[Pasted image 20250410232959.png]]
 
 **Factions Present** | [[The Undertakers]], [[The Xanthar Guild]]
 

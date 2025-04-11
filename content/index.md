@@ -10,4 +10,5 @@ High Level Links:
 * [[Dungeon Levels]]
 * [[Factions]]
 * [[NPCs]]
+* [[Gates]]
 

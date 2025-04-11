@@ -1,4 +1,4 @@
-![[Level 1 Banner.png]]
+![[Arcturiadome.png]]
 
 **Factions Present** | [[The Undertakers]], [[The Xanthar Guild]]
 
