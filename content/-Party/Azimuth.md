@@ -1,19 +1,12 @@
----
-title: 
-tags: 
-cssclasses: 
-hp: 
-ac: 
-modifier:
----
-**Class** | Wizard thing
+**Class** | Sorcerer, Multiclassed into Wizard and Druid
+
 **Race** | Hippo
-**Alignment** | Good sorta
-**Background** | Dude
-**Passive Perception** | 
 
----
+**Alignment** | Neutral
 
+**Background** | Astral Drifter
+
+**Passive Perception** |  17
 
 ---
 
@@ -27,3 +20,7 @@ modifier:
 ###### Bonds
 
 ###### Flaws
+
+---
+# Goals and Quests
+

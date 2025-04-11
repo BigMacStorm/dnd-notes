@@ -9,5 +9,5 @@ High Level Links:
 * [[Quests]]
 * [[Dungeon Levels]]
 * [[Factions]]
-* [[Important NPCs]]
+* [[NPCs]]
 
