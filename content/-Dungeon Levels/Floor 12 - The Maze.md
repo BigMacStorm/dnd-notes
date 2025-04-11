@@ -17,3 +17,8 @@
 
 ---
 # Gates
+
+##### Flagon of Ale Gate
+Activation | Pour out some alcoholic liquid in front of the gate
+
+Destination | [[Floor 6 - The Lost Level]]

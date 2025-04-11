@@ -21,3 +21,13 @@
 ##### Magic Wand Gate
 Activation | Press a magic wand to the frame of the mirror
 Destination | [[Floor 1 - The Dungeon]]
+
+##### Mirror Gate
+Activation | Stand in front of the mirror while invisible
+
+Destination | [[Floor 6 - The Lost Level]]
+
+##### Gear Gate
+Activation | Push in the popped out gear.
+
+Destination | [[Floor 8 - The Slitherswamp]]

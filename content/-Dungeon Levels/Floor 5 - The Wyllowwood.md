@@ -26,3 +26,10 @@ Destination | [[Floor 2 - The Arcane Chambers]]
 Activation | Tap the arch with a staff three times.
 
 Destination | [[Floor 3 - The Sargauth Domain]]]
+
+##### Dancing Dwarf Gate
+Activation | Dance like a dwarf
+
+Destination | [[Floor 6 - The Lost Level]]
+
+

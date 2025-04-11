@@ -17,3 +17,13 @@
 
 ---
 # Gates
+
+##### Closed Eye Dwarf Gate
+Activation | Pick the lock
+
+Destination | [[Floor 6 - The Lost Level]]
+
+##### Gear Gate
+Activation | Push in the popped out gear.
+
+Destination | [[Floor 10 - The Labyrinth of Murial]]

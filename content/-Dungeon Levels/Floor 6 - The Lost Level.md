@@ -31,3 +31,28 @@ Destination | [[Floor 3 - The Sargauth Domain]]
 Activation | Insert the horn of the unicorn figurine into the hole.
 
 Destination | [[Floor 4 - The Twisted Caverns]]
+
+##### Dancing Dwarf Gate
+Activation | Dance like a dwarf
+
+Destination | [[Floor 5 - The Wyllowwood]]
+
+##### Closed Eye Dwarf Gate
+Activation | Pick the lock
+
+Destination | [[Floor 8 - The Slitherswamp]]
+
+##### Beholder Gate
+Activation | Fly or levitate in front of the gate
+
+Destination | [[Floor 9 - The Dweomercore]]
+
+##### Mirror Gate
+Activation | Stand in front of the mirror while invisible
+
+Destination | [[Floor 10 - The Labyrinth of Murial]]
+
+##### Flagon of Ale Gate
+Activation | Pour out some alcoholic liquid in front of the gate
+
+Destination | [[Floor 12 - The Maze]]

@@ -17,3 +17,8 @@
 
 ---
 # Gates
+
+##### ??? Gate
+Activation | ???
+
+Destination | [[Floor 9 - The Dweomercore]]

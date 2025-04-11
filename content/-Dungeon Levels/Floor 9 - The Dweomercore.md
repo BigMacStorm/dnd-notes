@@ -17,3 +17,17 @@
 
 ---
 # Gates
+
+##### Beholder Gate
+Activation | Fly or levitate in front of the gate
+
+Destination | [[Floor 6 - The Lost Level]]
+
+##### ??? Gate
+Activation | ???
+
+Destination | [[Floor 7 - The Castle of Maddgoth]]
+##### ??? Gate
+Activation | ???
+
+Destination | [[Floor 14 - The Arcturiadome]]
