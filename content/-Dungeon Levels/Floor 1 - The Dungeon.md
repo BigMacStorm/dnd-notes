@@ -1,4 +1,4 @@
-![[Pasted image 20250410234340.png]]
+ ![[Level 1 Banner.png]]
 
 **Factions Present** | [[The Undertakers]], [[The Xanthar Guild]]
 
@@ -17,3 +17,6 @@
 
 ---
 # Gates
+##### Magic Wand Gate
+Activation | Press a magic wand to the frame of the mirror
+Destination | [[Floor 10 - The Labyrinth of Murial#Magic Wand Gate]]

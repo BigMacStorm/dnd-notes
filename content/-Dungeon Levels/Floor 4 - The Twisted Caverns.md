@@ -1,4 +1,4 @@
-![[Level 1 Banner.png]]
+![[Pasted image 20250410234340.png]]
 
 **Factions Present** | [[The Undertakers]], [[The Xanthar Guild]]
 
@@ -17,3 +17,6 @@
 
 ---
 # Gates
+##### Gold Coin Gate
+Activation | Insert a gold coin into the coin slot on the frame.
+Destination | [[Floor 2 - The Arcane Chambers#Gold Coin Gate]]

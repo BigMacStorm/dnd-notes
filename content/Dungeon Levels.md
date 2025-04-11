@@ -1,29 +1,29 @@
 ![[Floor Map.png]]
 
-[[Waterdeep]]
+[[Floor 0 - Waterdeep]]
 
-[[The Dungeon]]
+[[Floor 1 - The Dungeon]]
 
-[[The Arcane Chambers]]
+[[Floor 2 - The Arcane Chambers]]
 
-[[The Sargauth Domain]]
+[[Floor 3 - The Sargauth Domain]]
 
-[[The Twisted Caverns]]
+[[Floor 4 - The Twisted Caverns]]
 
-[[The Wyllowwood]]
+[[Floor 5 - The Wyllowwood]]
 
-[[The Lost Level]]
+[[Floor 6 - The Lost Level]]
 
-[[The Castle of Maddgoth]]
+[[Floor 7 - The Castle of Maddgoth]]
 
-[[The Slitherswamp]]
+[[Floor 8 - The Slitherswamp]]
 
-[[The Dweomercore]]
+[[Floor 9 - The Dweomercore]]
 
-[[The Labyrinth of Murial]]
+[[Floor 10 - The Labyrinth of Murial]]
 
-[[The Maze]]
+[[Floor 12 - The Maze]]
 
-[[The Arcturiadome]]
+[[Floor 14 - The Arcturiadome]]
 
 
