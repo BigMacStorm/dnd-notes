@@ -16,7 +16,7 @@ You have currently interacted or learned about the following factions.
 
 ## Groups within the Undermountain
 [[The Undertakers]]
-[[The Xanthar Guild]]
+[[The Xanathar Guild]]
 [[Goblin market]]
 [[Halaster's college]]
 [[House Auvryndar]]

@@ -1,6 +1,6 @@
 ![[Pasted image 20250410234255.png]]
 
-**Factions Present** | [[The Undertakers]], [[The Xanthar Guild]]
+**Factions Present** | [[The Undertakers]], [[The Xanathar Guild]]
 
 **Description** | 
 

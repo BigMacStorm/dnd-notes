@@ -1,6 +1,6 @@
 ![[The Arcane Chambers.png]]
 
-**Factions Present** | [[The Undertakers]], [[The Xanthar Guild]]
+**Factions Present** | [[The Undertakers]], [[The Xanathar Guild]]
 
 **Description** | 
 
