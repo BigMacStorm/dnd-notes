@@ -442,7 +442,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       simulationData: l,
       gfx,
       color: computedStyleMap["--lightgray"],
-      alpha: 1,
+      alpha: 0.3,
       active: false,
     }
 
