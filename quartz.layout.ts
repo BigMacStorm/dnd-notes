@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      Roll20: "https://app.roll20.net/campaigns/details/15091463/spooky-dungeon-time",
+      "Public Doc": "https://docs.google.com/document/d/1FZs0m8kFpJFivW1QBItnNZ2nqx821vFH_T6bq6ERpfU/edit?tab=t.0",
     },
   }),
 }
@@ -49,7 +49,7 @@ export const defaultContentPageLayout: PageLayout = {
         drag: true, // whether to allow panning the view around
         zoom: true, // whether to allow zooming in and out
         depth: 1, // how many hops of notes to display
-        scale: 1.5, // default view scale
+        scale: 3, // default view scale
         repelForce: 0.5, // how much nodes should repel each other
         centerForce: 0.3, // how much force to use when trying to center the nodes
         linkDistance: 30, // how long should the links be by default?
@@ -63,7 +63,7 @@ export const defaultContentPageLayout: PageLayout = {
         drag: true,
         zoom: true,
         depth: -1,
-        scale: 0.9,
+        scale: 2,
         repelForce: 12,
         centerForce: 0.3,
         linkDistance: 10,
