@@ -288,7 +288,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         tweenGroup.add(
           new Tweened<Text>(n.label).to(
             {
-              alpha: 1,
+              alpha: 0,
               scale: { x: activeScale, y: activeScale },
             },
             100,
@@ -321,11 +321,11 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
     const tweenGroup = new TweenGroup()
     for (const n of nodeRenderData) {
-      let alpha = 1
+      let alpha = 0
 
       // if we are hovering over a node, we want to highlight the immediate neighbours
       if (hoveredNodeId !== null && focusOnHover) {
-        alpha = n.active ? 1 : 0.2
+        alpha = n.active ? 1 : 0
       }
 
       tweenGroup.add(new Tweened<Graphics>(n.gfx, tweenGroup).to({ alpha }, 200))
@@ -427,7 +427,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       gfx,
       label,
       color: color(n),
-      alpha: 1,
+      alpha: 0,
       active: false,
     }
 
@@ -442,7 +442,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       simulationData: l,
       gfx,
       color: computedStyleMap["--lightgray"],
-      alpha: 1,
+      alpha: 0,
       active: false,
     }
 
