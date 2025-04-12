@@ -254,12 +254,12 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const tweenGroup = new TweenGroup()
 
     for (const l of linkRenderData) {
-      let alpha = 0.2
+      let alpha = 0.1
 
       // if we are hovering over a node, we want to highlight the immediate neighbours
       // with full alpha and the rest with default alpha
       if (hoveredNodeId) {
-        alpha = l.active ? 1 : 0.1
+        alpha = l.active ? 1 : 0.05
       }
 
       l.color = l.active ? computedStyleMap["--gray"] : computedStyleMap["--lightgray"]
@@ -288,7 +288,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         tweenGroup.add(
           new Tweened<Text>(n.label).to(
             {
-              alpha: 0,
+              alpha: 1,
               scale: { x: activeScale, y: activeScale },
             },
             100,
@@ -321,11 +321,11 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
     const tweenGroup = new TweenGroup()
     for (const n of nodeRenderData) {
-      let alpha = 0
+      let alpha = 1
 
       // if we are hovering over a node, we want to highlight the immediate neighbours
       if (hoveredNodeId !== null && focusOnHover) {
-        alpha = n.active ? 1 : 0
+        alpha = n.active ? 1 : 0.2
       }
 
       tweenGroup.add(new Tweened<Graphics>(n.gfx, tweenGroup).to({ alpha }, 200))
@@ -427,7 +427,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       gfx,
       label,
       color: color(n),
-      alpha: 0,
+      alpha: 1,
       active: false,
     }
 
@@ -442,7 +442,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       simulationData: l,
       gfx,
       color: computedStyleMap["--lightgray"],
-      alpha: 0,
+      alpha: 0.1,
       active: false,
     }
 
