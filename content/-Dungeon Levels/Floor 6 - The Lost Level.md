@@ -28,12 +28,12 @@ Activation | Place a gem worth at least 100g in the dragons mouth.
 Destination | [[Floor 3 - The Sargauth Domain]]
 
 ##### Figurine Gate
-Activation | Insert the horn of the unicorn figurine into the hole.
+Activation | Insert the elf statues into the hole on the sun.
 
 Destination | [[Floor 4 - The Twisted Caverns]]
 
 ##### Dancing Dwarf Gate
-Activation | Dance like a dwarf
+Activation | Play a D note.
 
 Destination | [[Floor 5 - The Wyllowwood]]
 

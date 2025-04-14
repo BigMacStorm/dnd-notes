@@ -18,7 +18,7 @@
 ---
 # Gates
 ##### Dead Tree Gate
-Activation | Touch the archway with a dead stick.
+Activation | Touch the archway with a dead stick, or any poisonous plant such as mistletoe.
 
 Destination | [[Floor 2 - The Arcane Chambers]]
 
@@ -28,7 +28,7 @@ Activation | Tap the arch with a staff three times.
 Destination | [[Floor 3 - The Sargauth Domain]]]
 
 ##### Dancing Dwarf Gate
-Activation | Dance like a dwarf
+Activation | Play a D note.
 
 Destination | [[Floor 6 - The Lost Level]]
 

@@ -24,7 +24,7 @@ Activation | Insert a gold coin into the coin slot on the frame.
 Destination | [[Floor 4 - The Twisted Caverns]]
 
 ##### Dead Tree Gate
-Activation | Touch the archway with a dead stick.
+Activation | Touch the archway with a dead stick, or any poisonous plant such as mistletoe.
 
 Destination | [[Floor 5 - The Wyllowwood]]
 

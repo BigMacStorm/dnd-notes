@@ -22,6 +22,6 @@ Activation | Insert a gold coin into the coin slot on the frame.
 
 Destination | [[Floor 2 - The Arcane Chambers]]
 ##### Figurine Gate
-Activation | Insert the horn of the unicorn figurine into the hole.
+Activation | Insert the horn of the unicorn figurine into the hole on the moon.
 
 Destination | [[Floor 6 - The Lost Level]]

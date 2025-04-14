@@ -19,7 +19,7 @@
 # Gates
 
 ##### Magic Wand Gate
-Activation | Press a magic wand to the frame of the mirror
+Activation | See yourself reflected by two mirrors.
 Destination | [[Floor 1 - The Dungeon]]
 
 ##### Mirror Gate

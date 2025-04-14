@@ -23,6 +23,6 @@ The Xanathar Guild maintains a small outpost here now, but their attentions do s
 ---
 # Gates
 ##### Magic Wand Gate
-Activation | Press a magic wand to the frame of the mirror
+Activation | See yourself reflected by two mirrors.
 
 Destination | [[Floor 10 - The Labyrinth of Murial]]
