@@ -5,6 +5,7 @@ This is a pretty rough work in progress, and may never become anything, but hope
 
 High Level Links:
 
+* [[Resources]]
 * [[Party]]
 * [[Quests]]
 * [[Dungeon Levels]]
