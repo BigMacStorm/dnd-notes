@@ -27,3 +27,9 @@ Destination | [[Floor 6 - The Lost Level]]
 Activation | Push in the popped out gear.
 
 Destination | [[Floor 10 - The Labyrinth of Murial]]
+
+
+Crown Gate
+Activation | Wear King Mulairs Crown
+
+Destination | [[Floor 11 - The Troglodyte Warren]]

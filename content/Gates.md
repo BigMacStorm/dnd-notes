@@ -47,7 +47,8 @@ There are several known gates throughout the Undermountain, for quick reference 
 	2. [[Floor 6 - The Lost Level]]
 	3. [[Floor 1 - The Dungeon]]
 	4. Maybe? [[Floor 12 - The Maze]]
-11. ??
+11. [[Floor 11 - The Troglodyte Warrens]]
+	1. [[Floor 6 - The Lost Level]]
 12. [[Floor 12 - The Maze]]
 	1. Maybe? [[Floor 10 - The Labyrinth of Murial]]
 	2. [[Floor 6 - The Lost Level]]
