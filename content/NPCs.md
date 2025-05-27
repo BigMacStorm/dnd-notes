@@ -1,0 +1,36 @@
+### House Auvryndar
+- [[T'rissa Auvryndar]]
+- [[Vlone Auvryndar]]
+- [[Zress Auvryndar]]
+### House Freth
+- [[Drivvin Freth]]
+- [[Erallel Freth]]
+- [[Rilna Freth]]
+- [[Xaran A'daragon]]
+### Misc
+- [[Azrok]]
+- [[Gorzil]]
+- [[Illun (Aboleth)]]
+- [[Koldann]]
+- [[Kuketh]]
+- [[Kuo-Toa Tribe]]
+- [[Skella Ironeye]]
+- [[Spite Harrowdale]]
+- [[The Ssethian Scourges]]
+- [[Torbit]]
+- [[Violence and Turbulence]]
+- [[Wyllow]]
+- [[Yao Jesus]]
+- [[Yek]]
+### Team Halaster
+- [[Halaster]]
+- [[Murial]]
+- [[Nester]]
+### The Shadowdusk Family
+- [[Malleen Shadowdusk]]
+- [[Skrianna Shadowdusk]]
+### The Xanathar Guild
+- [[Sundeth the Cruel]]
+- [[Xanathar]]
+### Waterdeep
+- [[Tearulai]]

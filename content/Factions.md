@@ -17,9 +17,14 @@ You have currently interacted or learned about the following factions.
 ## Groups within the Undermountain
 [[The Undertakers]]
 [[The Xanathar Guild]]
-[[Goblin market]]
-[[Halaster's college]]
+[[Goblin Tribe]]
 [[House Auvryndar]]
 [[House Freth]]
-[[Azrok's Legion]]
+[[Legion of Azrok]]
+[[Bullywogs]]
+[[Troglodytes]]
+
+## Adventuring Groups
+[[The Merry Men]]
+
 
