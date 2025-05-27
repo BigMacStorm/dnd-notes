@@ -2,7 +2,7 @@
 
 **Description** | Tearulai is a magical sentient sword who once controlled the dragon Valdemar in the Wyllowwood. After being freed by the party, Tearulai now resides with Jalaster Siolvermane, a captain of the city watch and member of the Lords Alliance, longing to be among the wealthy and elite.
 
-**Related Characters** | [[Wyllow]], Valdemar, Jalaster Siolvermane, The Party
+**Related Characters** | [[Wyllow]], Valdemar, Jalaster Silvermane, The Party
 
 **Involved in floors** | [[Floor 5 - The Wyllowwood]]
 

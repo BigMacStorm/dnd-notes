@@ -26,6 +26,8 @@
 - [[Halaster]]
 - [[Murial]]
 - [[Nester]]
+- [[Arcturia]]
+- [[Trobriand]]
 ### The Shadowdusk Family
 - [[Malleen Shadowdusk]]
 - [[Skrianna Shadowdusk]]
@@ -34,3 +36,9 @@
 - [[Xanathar]]
 ### Waterdeep
 - [[Tearulai]]
+- [[Durnan]]
+- [[Marcus Kestellharp]]
+- [[Todd]]
+- [[Jorath Brighthelm]]
+- [[Jalester Silvermane]]
+- [[Jhesyra]]

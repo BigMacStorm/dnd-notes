@@ -13,6 +13,7 @@ You have currently interacted or learned about the following factions.
 [[House Rozner]]
 [[Shadowdusk Family]]
 [[Moonstar Family]]
+[[Waterdeep Citizens]]
 
 ## Groups within the Undermountain
 [[The Undertakers]]
@@ -23,6 +24,7 @@ You have currently interacted or learned about the following factions.
 [[Legion of Azrok]]
 [[Bullywogs]]
 [[Troglodytes]]
+[[Halaster's Seven]]
 
 ## Adventuring Groups
 [[The Merry Men]]

@@ -4,7 +4,7 @@
 
 **Description** | The floor is dominated by an underground river that flows past a large underground lake and large fungi.
 
-**Notable Characters** | [[Illun (Aboleth)]], [[Kuo-Toa Leader]]
+**Notable Characters** | [[Illun (Aboleth)]]
 
 ---
 # Major Events
